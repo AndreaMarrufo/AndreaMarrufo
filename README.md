@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 <h4> Contactame 🤝: <h4>
   </hr>
   
-  <a href="https://www.linkedin.com/in/vic-hugo-mart/">
+ <!--## <a href="https://www.linkedin.com/in/vic-hugo-mart/">
    <img align="left" alt=" Om Patel | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   <a href="hugov824@gmail.com">
@@ -103,6 +103,6 @@ Here are some ideas to get you started:
    <a href="https://github.com/depresionTropical">
     <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
-  <br>
+  <br>-->
   
 <br>
