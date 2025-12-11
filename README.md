@@ -39,6 +39,8 @@ Here are some ideas to get you started:
   ✨ Lenguajes de programación:
 </summary>
 
+<br>
+
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
 <code><a href="https://www.python.org" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="TypeScript"></a></code>
 <code><a href="https://www.php.net/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="Php"></a></code>
@@ -50,6 +52,8 @@ Here are some ideas to get you started:
 <summary>
   ✨ Frontend y Backend:
 </summary>
+
+<br>
 
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
@@ -64,6 +68,8 @@ Here are some ideas to get you started:
   ✨ Data Base:
 </summary>
 
+<br>
+
 <code><a href="https://www.mongodb.com/es" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></a></code>
 <code><a href="https://dbeaver.io" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/256px-DBeaver_logo.svg.png?20210313151619"></a></code>
 <code><a href="https://www.postgresql.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></a></code>
@@ -75,6 +81,8 @@ Here are some ideas to get you started:
 <summary>
   ✨ Desarrollo:
 </summary>
+
+<br>
 
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 <code><a href="https://github.com" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></a></code>
